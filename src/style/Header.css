@@ -1,0 +1,26 @@
+*{
+    margin: 0;padding: 0;
+}
+nav{
+    height: 50px;
+    background-color: rgb(143, 143, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    /* padding-top: 10px; */
+    font-size: 1.5rem;
+    /* padding-left: 5%; */
+    
+
+}
+li{
+    list-style: none;
+
+    
+}
